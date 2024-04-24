@@ -1,8 +1,8 @@
 ﻿  ConsoleApplication2.cpp
-E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(32,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(40,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(70,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(73,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
-E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(96,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(155,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(30,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(38,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(68,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(71,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(94,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\work-space\vs studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(153,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   ConsoleApplication2.vcxproj -> E:\Desktop\work-space\vs studio\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
